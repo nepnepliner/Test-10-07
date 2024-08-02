@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Move
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Root
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001
+    m_Weight: 1
+  - m_Path: Armature/Root/spine.001/spine.002
+    m_Weight: 1
+  - m_Path: Armature/Root/spine.001/spine.002/arm.011
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.011/arm.012
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.011/arm.012/hand_item_1
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.011/arm.012/hand_item_1/Weapon
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.011/arm.012/hand_item_1/Weapon/Weapon
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.011/arm.012/hand_item_1/Weapon/Weapon/Sprite
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.011/arm.012/hand_item_1/Weapon/Weapon/Shoot
+      Effect
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.021
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.021/arm.022
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/arm.021/arm.022/hand_item_2
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/spine.002/neck
+    m_Weight: 1
+  - m_Path: Armature/Root/spine.001/spine.002/neck/head
+    m_Weight: 1
+  - m_Path: Armature/Root/spine.001/leg.011
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/leg.011/leg.012
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/leg.011/leg.012/leg.013
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/leg.021
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/leg.021/leg.022
+    m_Weight: 0
+  - m_Path: Armature/Root/spine.001/leg.021/leg.022/leg.023
+    m_Weight: 0
+  - m_Path: Armature/Arms Base
+    m_Weight: 0
+  - m_Path: Armature/Arms Base/Arm 1 LimbSolver2D
+    m_Weight: 0
+  - m_Path: Armature/Arms Base/Arm 1 LimbSolver2D/Arm 1 Target
+    m_Weight: 0
+  - m_Path: Armature/Arms Base/Arm 2 LimbSolver2D
+    m_Weight: 0
+  - m_Path: Armature/Arms Base/Arm 2 LimbSolver2D/Arm 2 Target
+    m_Weight: 0
+  - m_Path: Armature/Leg 1 LimbSolver2D
+    m_Weight: 0
+  - m_Path: Armature/Leg 1 LimbSolver2D/Leg 1 Target
+    m_Weight: 1
+  - m_Path: Armature/Leg 2 LimbSolver2D
+    m_Weight: 0
+  - m_Path: Armature/Leg 2 LimbSolver2D/Leg 2 Target
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: Head
+    m_Weight: 0
+  - m_Path: Leg 1
+    m_Weight: 0
+  - m_Path: Leg 2
+    m_Weight: 0
+  - m_Path: Upperarm 1
+    m_Weight: 0
+  - m_Path: Lowerarm 1
+    m_Weight: 0
+  - m_Path: Upperarm 2
+    m_Weight: 0
+  - m_Path: Lowerarm 2
+    m_Weight: 0
+  - m_Path: Health Bar
+    m_Weight: 0
+  - m_Path: Health Bar/Canvas
+    m_Weight: 0
+  - m_Path: Health Bar/Canvas/Slider
+    m_Weight: 0
+  - m_Path: Health Bar/Canvas/Slider/Background
+    m_Weight: 0
+  - m_Path: Health Bar/Canvas/Slider/Fill Area
+    m_Weight: 0
+  - m_Path: Health Bar/Canvas/Slider/Fill Area/Fill
+    m_Weight: 0
+  - m_Path: Health Bar/Canvas/Slider/Handle Slide Area
+    m_Weight: 0
+  - m_Path: Damage Receiver
+    m_Weight: 0
+  - m_Path: Dust Effect
+    m_Weight: 1

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flesh
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Root
+    m_Weight: 1
+  - m_Path: Armature/Root/Body
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Body_F
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Body_F/Leg_F.011
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Body_F/Leg_F.011/Leg_F.012
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Body_F/Leg_F.011/Leg_F.012/Leg_F.013
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Body_F/Leg_F.021
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Body_F/Leg_F.021/Leg_F.022
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Body_F/Leg_F.021/Leg_F.022/Leg_F.023
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Leg_B.011
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Leg_B.011/Leg_B.012
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Leg_B.011/Leg_B.012/Leg_B.013
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Leg_B.021
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Leg_B.021/Leg_B.022
+    m_Weight: 1
+  - m_Path: Armature/Root/Body/Body_B/Leg_B.021/Leg_B.022/Leg_B.023
+    m_Weight: 1
+  - m_Path: Armature/Leg B 2 LimbSolver2D
+    m_Weight: 1
+  - m_Path: Armature/Leg B 2 LimbSolver2D/Leg B 2 Target
+    m_Weight: 1
+  - m_Path: Armature/Leg B 1 LimbSolver2D
+    m_Weight: 1
+  - m_Path: Armature/Leg B 1 LimbSolver2D/Leg B 1 Target
+    m_Weight: 1
+  - m_Path: Armature/Leg F 2 LimbSolver2D
+    m_Weight: 1
+  - m_Path: Armature/Leg F 2 LimbSolver2D/Leg F 2 Target
+    m_Weight: 1
+  - m_Path: Armature/Leg F 1 LimbSolver2D
+    m_Weight: 1
+  - m_Path: Armature/Leg F 1 LimbSolver2D/Leg F 1 Target
+    m_Weight: 1
+  - m_Path: Flesh_Body
+    m_Weight: 0
+  - m_Path: Flesh_Leg_B 1
+    m_Weight: 0
+  - m_Path: Flesh_Leg_F 1
+    m_Weight: 0
+  - m_Path: Flesh_Leg_B 2
+    m_Weight: 0
+  - m_Path: Flesh_Leg_F 2
+    m_Weight: 0
+  - m_Path: Damage Trigger
+    m_Weight: 0
+  - m_Path: Health Bar
+    m_Weight: 0
+  - m_Path: Health Bar/Canvas
+    m_Weight: 1
+  - m_Path: Health Bar/Canvas/Slider
+    m_Weight: 1
+  - m_Path: Health Bar/Canvas/Slider/Background
+    m_Weight: 1
+  - m_Path: Health Bar/Canvas/Slider/Fill Area
+    m_Weight: 1
+  - m_Path: Health Bar/Canvas/Slider/Fill Area/Fill
+    m_Weight: 1
+  - m_Path: Health Bar/Canvas/Slider/Handle Slide Area
+    m_Weight: 1
